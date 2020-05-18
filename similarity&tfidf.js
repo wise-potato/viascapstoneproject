@@ -1,3 +1,4 @@
+// Node.js 12.x
 const AWS = require('aws-sdk');
 const docClient = new AWS.DynamoDB.DocumentClient({region:'us-east-1'});
 
