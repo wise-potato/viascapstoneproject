@@ -1,3 +1,4 @@
+// Node.js 10.x
 //consAlexalexa = require('ask-sdk');
 //const request = require('request');
 const AWS = require('aws-sdk');
